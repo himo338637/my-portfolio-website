@@ -32,7 +32,8 @@ nav li{
     font-weight: 800;
 }
 .header{
-    background-color: #fcf2eb;
+    background-color:#f9f2ee;
+    ;
     /*background-image: url(../background.jpg/);*/
   
     
@@ -65,7 +66,7 @@ main{
 .about{
     padding: 130px;
     border-radius: 10px;
-    background-color: #fcf2eb;
+    background-color: #f9f2ee;
     margin-top: 80px;
 }
 .section-tittle{
@@ -88,4 +89,26 @@ main{
 }
 .about-info{
     text-align: center;
+}
+#what-i-do{
+    padding: 30px 150px;
+    margin-bottom: 50px;
+}
+.skill-container
+{
+    display: flex;
+}
+#img{
+    height: 50px;
+    width: 50px;
+
+}
+.skill{
+    padding: 20px;
+    margin-right: 10px;
+    background-color: #f5f4f4;
+}
+.resume-container{
+    display: flex;
+    gap: 50px;
 }
